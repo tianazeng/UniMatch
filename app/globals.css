@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Columbia palette: shared with Tailwind theme in tailwind.config.ts */
+@layer base {
+  :root {
+    --columbia-blue: #c4d8e2;
+    --columbia-secondary: #75aadb;
+    --columbia-surface: #e3f2fd;
+    --columbia-accent: #1d2232;
+  }
+
+  body {
+    min-height: 100dvh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--columbia-surface);
+    color: var(--columbia-accent);
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "CodeCraft Society",
+    "logo_emoji": "💻",
+    "description": "Weekly hack nights, beginner-friendly workshops, and a chill space to build side projects together.",
+    "tags": ["Tech", "Introvert-friendly", "Beginners welcome"],
+    "categories": ["Tech"],
+    "popularity_score": 94,
+    "vibe": "Geeky but fun"
+  },
+  {
+    "id": "2",
+    "name": "Green Campus Initiative",
+    "logo_emoji": "🌿",
+    "description": "Planting days, sustainability talks, and campus clean-ups — make friends while caring for the planet.",
+    "tags": ["Outdoors", "Social impact", "Hands-on"],
+    "categories": ["Outdoors", "Social"],
+    "popularity_score": 86,
+    "vibe": "Warm and purposeful"
+  },
+  {
+    "id": "3",
+    "name": "Lens & Light Photo Club",
+    "logo_emoji": "📷",
+    "description": "Photo walks, portrait sessions, and exhibitions. All skill levels; borrow gear from the club locker.",
+    "tags": ["Creative", "Visual arts", "Weekend outings"],
+    "categories": ["Arts"],
+    "popularity_score": 79,
+    "vibe": "Artistic and supportive"
+  },
+  {
+    "id": "4",
+    "name": "Debate Union",
+    "logo_emoji": "🎤",
+    "description": "Structured debates, public speaking coaching, and friendly tournaments with other schools.",
+    "tags": ["Public speaking", "Competitive", "Teamwork"],
+    "categories": ["Arts", "Social"],
+    "popularity_score": 88,
+    "vibe": "Sharp, energetic, welcoming"
+  },
+  {
+    "id": "5",
+    "name": "Board Game Lounge",
+    "logo_emoji": "🎲",
+    "description": "Casual meetups for tabletop games, card games, and cozy Friday-night hangouts.",
+    "tags": ["Social", "Low-pressure", "Indoor"],
+    "categories": ["Social"],
+    "popularity_score": 72,
+    "vibe": "Relaxed and silly"
+  },
+  {
+    "id": "6",
+    "name": "Lion Intramural Soccer",
+    "logo_emoji": "⚽",
+    "description": "Pick-up games, league nights, and watch parties — all skill levels welcome.",
+    "tags": ["Sports", "Teamwork", "Fitness"],
+    "categories": ["Sports"],
+    "popularity_score": 91,
+    "vibe": "Competitive but friendly"
+  }
+]
